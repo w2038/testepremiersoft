@@ -1,0 +1,12 @@
+Wagner;Desenvolvedor Back-end;34;Pará
+Lorena;Desenvolvedor Front-end;29;Pará
+Paula;Analista de Qualidade;25;Santa Catarina
+ana;Analista de Qualidade;25;Santa Catarina
+Jeovane;Data Scientist;30;Pará
+Marcela;DevOps Engineer;28;Rio de Janeiro
+Carlos;Desenvolvedor Back-end;35;Bahia
+Fernanda;Analista de Qualidade;26;Paraná
+Pedro;Engenheiro de Dados;32;Santa Catarina
+Beatriz;Desenvolvedor Front-end;24;Distrito Federal
+Rafaela;Administradora de Sistemas;29;Pernambuco
+Lucas Costa;Mobile;30;Piauí
